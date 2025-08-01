@@ -18,7 +18,8 @@ Logs browser tab activity (title, URL, and timestamp) whenever the user switches
 
 ## 📸 Preview
 
-> Add screenshots here (if needed)
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b08926a-2f57-429e-b27c-a9b7fe49fde5" />
+
 
 ## 🧠 Tech Used
 
